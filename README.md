@@ -31,3 +31,5 @@ This repository is a living document of my continuous learning and future ambiti
 * **Contribution & Collaboration:** Looking for opportunities to learn from and contribute to open-source projects in AI, space tech, or 3D visualization.
 
 ---
+
+follow up if u want to learn more about me and learn from my journey
