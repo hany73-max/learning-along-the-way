@@ -1,6 +1,6 @@
 # 🚀 My Learning Journey: Navigating Tech & Space 🌌
 
-A personal log and preview of my academic and self-learning adventures in technology, focusing on areas that ignite my passion for navigation, space, and AI.
+A journey of trial and error
 
 ---
 
@@ -29,20 +29,5 @@ This repository is a living document of my continuous learning and future ambiti
 * **Deeper Dive into AI/ML for Space:** Exploring algorithms for autonomous navigation, satellite data processing, and predictive modeling for space missions.
 * **Integrating AI with 3D Simulations:** Combining my passion for 3D design with AI to create realistic, interactive simulations of space environments and navigation scenarios. My dream is to eventually develop a comprehensive 3D world that leverages AI for dynamic, intelligent systems.
 * **Contribution & Collaboration:** Looking for opportunities to learn from and contribute to open-source projects in AI, space tech, or 3D visualization.
-
----
-
-## **🤝 Connect with Me**
-
-I'm always eager to learn and discuss new ideas, especially in AI, space exploration, and futuristic tech. Feel free to connect!
-
-* **Email:** [your-email@example.com]  *(Replace with your actual email)*
-* **LinkedIn (Optional):** [Your LinkedIn Profile URL] *(If you have one)*
-
----
-
-## **📜 License**
-
-This project is open-source and available under the [MIT License](LICENSE). *(You'll need to create a `LICENSE` file in your repo later if you don't have one)*
 
 ---
